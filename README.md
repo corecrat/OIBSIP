@@ -75,8 +75,8 @@ Big thanks to **[Oasis Infobyte](https://www.oasisinfobyte.com/)** for the platf
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link-here)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/priyanshu-anand-b1773b268)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:priyanshuanand9880@gmail.com)
 
 ---
 
